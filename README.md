@@ -1,5 +1,10 @@
 # Transifex-Issues
 
+There is a powerful translation service named Transifex. It offers its service for free for Open Source projects.
+
+Logo:
+![alt text](https://cdn-txweb.pressidium.com/wp-content/uploads/2016/08/logo-widget.svg)
+
 At the moment Transifex do not offer an open discussion platform or public issue tracker. That's why I created this repo.
 
 As a power user I discovered some issues and have ideas to improve Transifex service.
