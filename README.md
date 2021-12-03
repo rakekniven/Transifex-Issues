@@ -1,10 +1,19 @@
 # Transifex-Issues
 
+# Note 2021-12-04
+
+Since June 2018 there is a community forum launched by Transifex.
+
+https://community.transifex.com/
+
+Please do not file any issues here anymore.
+
+# Old
 There is a powerful translation service named Transifex. The company offers its service for free for Open Source projects.
 
 Logo:
 
-![alt text](https://cdn-txweb.pressidium.com/wp-content/uploads/2016/08/logo-widget.svg)
+![alt text](https://cdn-txweb.transifex.com/wp-content/uploads/2020/03/transifex-new-logo-white-352x190.png)
 
 At the moment Transifex do not offer an open discussion platform or public issue tracker. That's why I created this repo.
 
